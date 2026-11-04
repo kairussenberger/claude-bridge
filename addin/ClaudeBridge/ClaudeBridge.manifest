@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "d4548c71-ab76-4932-94c5-53e2faa6d142",
+  "author": "Kai Russenberger",
+  "description": {"": "Local HTTP bridge so Claude Code can run API code inside Fusion"},
+  "version": "0.1.0",
+  "runOnStartup": false,
+  "supportedOS": "mac|windows",
+  "editEnabled": true
+}
